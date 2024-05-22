@@ -1,2 +1,3 @@
-git ignore results/plots
-
+results
+ blah blah
+*.csv
